@@ -45,21 +45,6 @@ app.get('/help', (req,res)=>{
     })
 })
 
-// app.get('', (req, res)=>{
-//     res.send('<h1>Weather</h1>')
-// })
-
-// app.get('/help', (req, res)=>{
-//     res.send([{
-//         name: 'Waqas',
-//         age: 25
-//     },
-//     {
-//         name: 'Zain',
-//         age: 24
-//     }
-// ])
-// })
 
 // app.get('/about', (req, res)=>{
 //     res.send('<h1>Weather App</h1>')
